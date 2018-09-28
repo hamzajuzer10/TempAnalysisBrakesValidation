@@ -1,0 +1,2 @@
+# TempAnalysisBrakesValidation
+Clustering Segmentation Variables
